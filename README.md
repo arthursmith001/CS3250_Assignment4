@@ -67,7 +67,7 @@ for destination in paths:
 The library includes a test script that can read graph data from files:
 
 ```bash
-python test.py graph_file.txt
+python test.py example1.txt
 ```
 
 Graph file format:
@@ -132,10 +132,10 @@ This project was developed as part of CS3250 coursework focusing on software pac
 
 ### Testing
 
-Run the test script with a sample graph:
+Run the test script with a sample:
 
 ```bash
-python test.py sample_graph.txt
+python test.py example1.txt
 ```
 
 ## License
